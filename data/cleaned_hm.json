@@ -1,0 +1,13 @@
+{
+    "128766": {
+        "hmid": "128766",
+        "wid": "141",
+        "reflection_period": "24h",
+        "original_hm": "I had a great workout last night.",
+        "cleaned_hm": "I had a great workout last night.",
+        "modified": "True",
+        "num_sentence": "1",
+        "ground_truth_category": "",
+        "predicted_category": "exercise"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "128766": {
+        "hmid": "128766",
+        "tokenOffset": "8",
+        "word": ".",
+        "lowercaseLemma": ".",
+        "POS": "PUNCT",
+        "MWE": "O",
+        "offsetParent": "0",
+        "supersenseLabel": ""
+    }
+}
