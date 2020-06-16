@@ -1,0 +1,3969 @@
+{
+    "mediawiki": {
+        "siteinfo": {
+            "sitename": {
+                "$": "Wikibooks"
+            },
+            "dbname": {
+                "$": "afwikibooks"
+            },
+            "base": {
+                "$": "https://af.wikibooks.org/wiki/Tuisblad"
+            },
+            "generator": {
+                "$": "MediaWiki 1.35.0-wmf.32"
+            },
+            "case": {
+                "$": "first-letter"
+            },
+            "namespaces": {
+                "namespace": [
+                    {
+                        "@key": -2,
+                        "@case": "first-letter",
+                        "$": "Media"
+                    },
+                    {
+                        "@key": -1,
+                        "@case": "first-letter",
+                        "$": "Spesiaal"
+                    },
+                    {
+                        "@key": 0,
+                        "@case": "first-letter"
+                    },
+                    {
+                        "@key": 1,
+                        "@case": "first-letter",
+                        "$": "Bespreking"
+                    },
+                    {
+                        "@key": 2,
+                        "@case": "first-letter",
+                        "$": "Gebruiker"
+                    },
+                    {
+                        "@key": 3,
+                        "@case": "first-letter",
+                        "$": "Gebruikerbespreking"
+                    },
+                    {
+                        "@key": 4,
+                        "@case": "first-letter",
+                        "$": "Wikibooks"
+                    },
+                    {
+                        "@key": 5,
+                        "@case": "first-letter",
+                        "$": "Wikibooksbespreking"
+                    },
+                    {
+                        "@key": 6,
+                        "@case": "first-letter",
+                        "$": "L�er"
+                    },
+                    {
+                        "@key": 7,
+                        "@case": "first-letter",
+                        "$": "L�erbespreking"
+                    },
+                    {
+                        "@key": 8,
+                        "@case": "first-letter",
+                        "$": "MediaWiki"
+                    },
+                    {
+                        "@key": 9,
+                        "@case": "first-letter",
+                        "$": "MediaWikibespreking"
+                    },
+                    {
+                        "@key": 10,
+                        "@case": "first-letter",
+                        "$": "Sjabloon"
+                    },
+                    {
+                        "@key": 11,
+                        "@case": "first-letter",
+                        "$": "Sjabloonbespreking"
+                    },
+                    {
+                        "@key": 12,
+                        "@case": "first-letter",
+                        "$": "Hulp"
+                    },
+                    {
+                        "@key": 13,
+                        "@case": "first-letter",
+                        "$": "Hulpbespreking"
+                    },
+                    {
+                        "@key": 14,
+                        "@case": "first-letter",
+                        "$": "Kategorie"
+                    },
+                    {
+                        "@key": 15,
+                        "@case": "first-letter",
+                        "$": "Kategoriebespreking"
+                    },
+                    {
+                        "@key": 828,
+                        "@case": "first-letter",
+                        "$": "Module"
+                    },
+                    {
+                        "@key": 829,
+                        "@case": "first-letter",
+                        "$": "Module talk"
+                    },
+                    {
+                        "@key": 2300,
+                        "@case": "first-letter",
+                        "$": "Gadget"
+                    },
+                    {
+                        "@key": 2301,
+                        "@case": "first-letter",
+                        "$": "Gadget talk"
+                    },
+                    {
+                        "@key": 2302,
+                        "@case": "case-sensitive",
+                        "$": "Gadget definition"
+                    },
+                    {
+                        "@key": 2303,
+                        "@case": "case-sensitive",
+                        "$": "Gadget definition talk"
+                    }
+                ]
+            }
+        },
+        "page": [
+            {
+                "title": {
+                    "$": "Main Page"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1
+                },
+                "redirect": {
+                    "@title": "Tuisblad"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3240
+                    },
+                    "parentid": {
+                        "$": 959
+                    },
+                    "timestamp": {
+                        "$": "2007-07-23T15:51:41Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.241.181.92"
+                        }
+                    },
+                    "comment": {
+                        "$": "#REDIRECT [[Tuisblad]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 22,
+                        "@id": 3240
+                    },
+                    "sha1": {
+                        "$": "nrctbbcouabanidbepwtp66h9wm03pl"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "MediaWiki:Monobook.js"
+                },
+                "ns": {
+                    "$": 8
+                },
+                "id": {
+                    "$": 5
+                },
+                "revision": {
+                    "id": {
+                        "$": 4539
+                    },
+                    "parentid": {
+                        "$": 3667
+                    },
+                    "timestamp": {
+                        "$": "2012-08-15T18:58:43Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Ruslik0"
+                        },
+                        "id": {
+                            "$": 363
+                        }
+                    },
+                    "comment": {
+                        "$": "rm old stuff"
+                    },
+                    "model": {
+                        "$": "javascript"
+                    },
+                    "format": {
+                        "$": "text/javascript"
+                    },
+                    "text": {
+                        "@bytes": 0,
+                        "@id": 4503
+                    },
+                    "sha1": {
+                        "$": "phoiac9h4m842xq45sp7s6u21eteeq1"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Tuisblad"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 917
+                },
+                "revision": {
+                    "id": {
+                        "$": 5231
+                    },
+                    "parentid": {
+                        "$": 4484
+                    },
+                    "timestamp": {
+                        "$": "2017-02-03T13:29:18Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Ah3kal"
+                        },
+                        "id": {
+                            "$": 1456
+                        }
+                    },
+                    "comment": {
+                        "$": "fixing per https://www.mediawiki.org/wiki/Parsing/Replacing_Tidy"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 3599,
+                        "@id": 5135
+                    },
+                    "sha1": {
+                        "$": "52iu45wz4xb08dvwayk5pbe7znyifdt"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Bespreking:Tuisblad"
+                },
+                "ns": {
+                    "$": 1
+                },
+                "id": {
+                    "$": 918
+                },
+                "revision": {
+                    "id": {
+                        "$": 6325
+                    },
+                    "parentid": {
+                        "$": 6324
+                    },
+                    "timestamp": {
+                        "$": "2020-02-08T23:48:52Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Hasley"
+                        },
+                        "id": {
+                            "$": 2021
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Wysigings deur [[Special:Contributions/31.141.52.58|31.141.52.58]] teruggerol na laaste weergawe deur [[User:Hasley|Hasley]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 450,
+                        "@id": 4289
+                    },
+                    "sha1": {
+                        "$": "m6wwzihrula0flgclo4wnj5ffeiy46d"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 919
+                },
+                "revision": {
+                    "id": {
+                        "$": 6502
+                    },
+                    "parentid": {
+                        "$": 6501
+                    },
+                    "timestamp": {
+                        "$": "2020-02-29T04:02:16Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "WhitePhosphorus"
+                        },
+                        "id": {
+                            "$": 2086
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Wysigings deur [[Special:Contributions/37.154.154.31|37.154.154.31]] teruggerol na laaste weergawe deur [[User:~riley|~riley]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 636,
+                        "@id": 4547
+                    },
+                    "sha1": {
+                        "$": "b4ozup96gm971df8k93jnfgm9bw9557"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks:Hoe kan ek bydra"
+                },
+                "ns": {
+                    "$": 4
+                },
+                "id": {
+                    "$": 920
+                },
+                "revision": {
+                    "id": {
+                        "$": 3308
+                    },
+                    "parentid": {
+                        "$": 2508
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:40:06Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "[[Hoe kan ek bydra]] geskuif na [[Wikibooks:Hoe kan ek bydra]]: edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 303,
+                        "@id": 2508
+                    },
+                    "sha1": {
+                        "$": "gm7nfq64lpo9a3qkskl0fmrqxs1pvj3"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks:Wie mag deelneem"
+                },
+                "ns": {
+                    "$": 4
+                },
+                "id": {
+                    "$": 922
+                },
+                "revision": {
+                    "id": {
+                        "$": 3302
+                    },
+                    "parentid": {
+                        "$": 1880
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:37:31Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "[[Wie mag deelneem]] geskuif na [[Wikibooks:Wie mag deelneem]]: Korrekte naamruimte"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 280,
+                        "@id": 1880
+                    },
+                    "sha1": {
+                        "$": "nfglu711xz07hk53x4deti0gftt53fh"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Esperanto"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 924
+                },
+                "revision": {
+                    "id": {
+                        "$": 6465
+                    },
+                    "parentid": {
+                        "$": 6463
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:07:56Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Undid edits by [[Special:Contribs/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|talk]]) to last version by Hasley"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 311,
+                        "@id": 6281
+                    },
+                    "sha1": {
+                        "$": "h9pn50cdy4vc8n2bvm5v4g3wtktdjwr"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Bespreking:Freakazoid"
+                },
+                "ns": {
+                    "$": 1
+                },
+                "id": {
+                    "$": 926
+                },
+                "revision": {
+                    "id": {
+                        "$": 1884
+                    },
+                    "timestamp": {
+                        "$": "2005-03-30T12:14:24Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Renier Maritz~afwikibooks"
+                        },
+                        "id": {
+                            "$": 2
+                        }
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 238,
+                        "@id": 1884
+                    },
+                    "sha1": {
+                        "$": "4suzgp1j0p4g5rz4o5cqwa0du9p070u"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Renier Maritz~afwikibooks"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 927
+                },
+                "revision": {
+                    "id": {
+                        "$": 5041
+                    },
+                    "parentid": {
+                        "$": 1885
+                    },
+                    "timestamp": {
+                        "$": "2015-04-16T16:06:28Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Maintenance script"
+                        },
+                        "id": {
+                            "$": 1562
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Maintenance script het bladsy [[Gebruiker:Renier Maritz]] na [[Gebruiker:Renier Maritz~afwikibooks]] geskuif sonder om 'n aanstuur agter te laat: Automatically moved page while renaming the user \"[[Special:CentralAuth/Renier Maritz|Renier Maritz]]\" to..."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 253,
+                        "@id": 1885
+                    },
+                    "sha1": {
+                        "$": "ija227mo3za44f5uce9zkn3ty8i7f77"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks:Administrateurs"
+                },
+                "ns": {
+                    "$": 4
+                },
+                "id": {
+                    "$": 928
+                },
+                "revision": {
+                    "id": {
+                        "$": 5109
+                    },
+                    "parentid": {
+                        "$": 4594
+                    },
+                    "timestamp": {
+                        "$": "2015-08-09T19:09:44Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "YiFeiBot"
+                        },
+                        "id": {
+                            "$": 1614
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Verplasing van 32 interwikiskakels wat op [[d:|Wikidata]] beskikbaar is op [[d:q4039395]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 875,
+                        "@id": 5026
+                    },
+                    "sha1": {
+                        "$": "glcxq9k414ufoiyi5c6dn3fc01kw2bs"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Renier Maritz~afwikibooks"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 929
+                },
+                "revision": {
+                    "id": {
+                        "$": 5068
+                    },
+                    "parentid": {
+                        "$": 5040
+                    },
+                    "timestamp": {
+                        "$": "2015-04-16T16:09:02Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "MediaWiki message delivery"
+                        },
+                        "id": {
+                            "$": 1367
+                        }
+                    },
+                    "comment": {
+                        "$": "Renamed"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 3142,
+                        "@id": 4988
+                    },
+                    "sha1": {
+                        "$": "bslqueqdpowu63r2hq3qbgv8cleil7w"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Lekker lag grapboek"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 930
+                },
+                "revision": {
+                    "id": {
+                        "$": 6479
+                    },
+                    "parentid": {
+                        "$": 6455
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:22:37Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "comment": {
+                        "$": "rv"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 87,
+                        "@id": 6295
+                    },
+                    "sha1": {
+                        "$": "32ci2y7g55y0fsqx3tgy25osoib2hr1"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Ongeklassifiseerde grappe"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 931
+                },
+                "revision": {
+                    "id": {
+                        "$": 6469
+                    },
+                    "parentid": {
+                        "$": 6468
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:09:06Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Undid edits by [[Special:Contribs/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|talk]]) to last version by ~riley"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1129,
+                        "@id": 6285
+                    },
+                    "sha1": {
+                        "$": "ko2dflintcvwmpce817smiz6z0t751q"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Dieetgrappe"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 932
+                },
+                "revision": {
+                    "id": {
+                        "$": 6270
+                    },
+                    "parentid": {
+                        "$": 6269
+                    },
+                    "timestamp": {
+                        "$": "2020-02-08T23:22:05Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Hasley"
+                        },
+                        "id": {
+                            "$": 2021
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Wysigings deur [[Special:Contributions/159.146.18.13|159.146.18.13]] teruggerol na laaste weergawe deur [[User:~riley|~riley]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 654,
+                        "@id": 3317
+                    },
+                    "sha1": {
+                        "$": "sgsnqu3b3w8umqlhc0crje1iklky8wt"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Dieet grappe"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 933
+                },
+                "redirect": {
+                    "@title": "Dieetgrappe"
+                },
+                "revision": {
+                    "id": {
+                        "$": 1891
+                    },
+                    "timestamp": {
+                        "$": "2005-04-05T11:47:55Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Renier Maritz~afwikibooks"
+                        },
+                        "id": {
+                            "$": 2
+                        }
+                    },
+                    "comment": {
+                        "$": "Dieet grappe moved to Dieetgrappe"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 26,
+                        "@id": 1891
+                    },
+                    "sha1": {
+                        "$": "acgccp5fdwr6nf0lmwnevx16bu13hrp"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Onseker waar dit behoort"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 934
+                },
+                "redirect": {
+                    "@title": "Ongeklassifiseerde grappe"
+                },
+                "revision": {
+                    "id": {
+                        "$": 4181
+                    },
+                    "parentid": {
+                        "$": 1892
+                    },
+                    "timestamp": {
+                        "$": "2010-11-26T20:48:12Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Quentinv57"
+                        },
+                        "id": {
+                            "$": 577
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "fixing double redirect"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 39,
+                        "@id": 4147
+                    },
+                    "sha1": {
+                        "$": "d6fmiv9a9asuix6s2ym4ojkdhyhu1n2"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Lekker lag grap boek"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 935
+                },
+                "redirect": {
+                    "@title": "Lekker lag grapboek"
+                },
+                "revision": {
+                    "id": {
+                        "$": 1893
+                    },
+                    "timestamp": {
+                        "$": "2005-04-05T11:51:45Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Renier Maritz~afwikibooks"
+                        },
+                        "id": {
+                            "$": 2
+                        }
+                    },
+                    "comment": {
+                        "$": "Lekker lag grap boek moved to Lekker lag grapboek"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 33,
+                        "@id": 1893
+                    },
+                    "sha1": {
+                        "$": "6yorix8ul1kycns1dhl8l7mjpy43l61"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Freakazoid~afwikibooks"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 936
+                },
+                "revision": {
+                    "id": {
+                        "$": 5024
+                    },
+                    "parentid": {
+                        "$": 1894
+                    },
+                    "timestamp": {
+                        "$": "2015-04-16T16:06:21Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Maintenance script"
+                        },
+                        "id": {
+                            "$": 1562
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Maintenance script het bladsy [[Gebruiker:Freakazoid]] na [[Gebruiker:Freakazoid~afwikibooks]] geskuif sonder om 'n aanstuur agter te laat: Automatically moved page while renaming the user \"[[Special:CentralAuth/Freakazoid|Freakazoid]]\" to \"[[Special:C..."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 491,
+                        "@id": 1894
+                    },
+                    "sha1": {
+                        "$": "hvd9c4m0ygn1lgq75pbmxsa5icq8vc8"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Freakazoid~afwikibooks"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 937
+                },
+                "revision": {
+                    "id": {
+                        "$": 5056
+                    },
+                    "parentid": {
+                        "$": 5023
+                    },
+                    "timestamp": {
+                        "$": "2015-04-16T16:09:02Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "MediaWiki message delivery"
+                        },
+                        "id": {
+                            "$": 1367
+                        }
+                    },
+                    "comment": {
+                        "$": "Renamed"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 2329,
+                        "@id": 4976
+                    },
+                    "sha1": {
+                        "$": "moh4n6otzvdxbkad9dtmewrbo1a7yz0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sterrekunde"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1392
+                },
+                "revision": {
+                    "id": {
+                        "$": 6475
+                    },
+                    "parentid": {
+                        "$": 6435
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:19:29Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "comment": {
+                        "$": "Rol weergawe 6435 deur [[Special:Contributions/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|bespreek]]) terug."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 432,
+                        "@id": 6291
+                    },
+                    "sha1": {
+                        "$": "g4wtfjn4ka15txg3ae4bxcqrxaanxye"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "HTML"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1455
+                },
+                "revision": {
+                    "id": {
+                        "$": 6490
+                    },
+                    "parentid": {
+                        "$": 6372
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:29:27Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "comment": {
+                        "$": "Rol weergawe 6372 deur [[Special:Contributions/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|bespreek]]) terug."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 2469,
+                        "@id": 6306
+                    },
+                    "sha1": {
+                        "$": "mgh9ac2r79b2eshgtdw3t0tuiys4w53"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Zigger"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1470
+                },
+                "revision": {
+                    "id": {
+                        "$": 2632
+                    },
+                    "timestamp": {
+                        "$": "2005-12-01T13:39:47Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Zigger"
+                        },
+                        "id": {
+                            "$": 9
+                        }
+                    },
+                    "comment": {
+                        "$": "en"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 25,
+                        "@id": 2632
+                    },
+                    "sha1": {
+                        "$": "gybo516zbujuxv3ot2ofgkubk4v29v0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Zigger"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1471
+                },
+                "revision": {
+                    "id": {
+                        "$": 2633
+                    },
+                    "timestamp": {
+                        "$": "2005-12-01T13:40:18Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Zigger"
+                        },
+                        "id": {
+                            "$": 9
+                        }
+                    },
+                    "comment": {
+                        "$": "en"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 30,
+                        "@id": 2633
+                    },
+                    "sha1": {
+                        "$": "omkpwu9k9dg8oak6bie88o15bl1o3wa"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Korg"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1490
+                },
+                "revision": {
+                    "id": {
+                        "$": 3404
+                    },
+                    "parentid": {
+                        "$": 2752
+                    },
+                    "timestamp": {
+                        "$": "2008-06-06T23:38:08Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Korg"
+                        },
+                        "id": {
+                            "$": 12
+                        }
+                    },
+                    "comment": {
+                        "$": "Vervang bladsyinhoud met '[[m:User:Korg]]'"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 15,
+                        "@id": 3399
+                    },
+                    "sha1": {
+                        "$": "094wtog13qlbuajq5mye7rptj97kkfn"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Korg/monobook.js"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1491
+                },
+                "revision": {
+                    "id": {
+                        "$": 3405
+                    },
+                    "parentid": {
+                        "$": 2753
+                    },
+                    "timestamp": {
+                        "$": "2008-06-06T23:38:47Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Korg"
+                        },
+                        "id": {
+                            "$": 12
+                        }
+                    },
+                    "model": {
+                        "$": "javascript"
+                    },
+                    "format": {
+                        "$": "text/javascript"
+                    },
+                    "text": {
+                        "@bytes": 140,
+                        "@id": 3400
+                    },
+                    "sha1": {
+                        "$": "b6ucahkooqsve931i2zyz7x5oymu81v"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Gangleri"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1494
+                },
+                "revision": {
+                    "id": {
+                        "$": 5158
+                    },
+                    "parentid": {
+                        "$": 5147
+                    },
+                    "timestamp": {
+                        "$": "2015-09-17T21:49:04Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Gangleri"
+                        },
+                        "id": {
+                            "$": 13
+                        }
+                    },
+                    "comment": {
+                        "$": "layout:&nbsp;2015-09-17�b&nbsp;LTR&nbsp;RTL gangleri"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 12826,
+                        "@id": 5075
+                    },
+                    "sha1": {
+                        "$": "q8jjusx9x6zzqqabe952060s5kqtwj8"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Gangleri"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1497
+                },
+                "revision": {
+                    "id": {
+                        "$": 2764
+                    },
+                    "timestamp": {
+                        "$": "2006-01-01T20:32:16Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Gangleri"
+                        },
+                        "id": {
+                            "$": 13
+                        }
+                    },
+                    "minor": {},
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 899,
+                        "@id": 2764
+                    },
+                    "sha1": {
+                        "$": "lhlfa78gk0u0qxu1rke1ldkfnhhzzsq"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Htonl"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1525
+                },
+                "revision": {
+                    "id": {
+                        "$": 2824
+                    },
+                    "timestamp": {
+                        "$": "2006-03-19T20:10:59Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Htonl"
+                        },
+                        "id": {
+                            "$": 17
+                        }
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 53,
+                        "@id": 2824
+                    },
+                    "sha1": {
+                        "$": "efe7t351ta5cq67ibpaadgcsz3c6dag"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Jannetta"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1733
+                },
+                "revision": {
+                    "id": {
+                        "$": 3089
+                    },
+                    "timestamp": {
+                        "$": "2006-09-22T14:46:42Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "195.50.81.249"
+                        }
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 72,
+                        "@id": 3089
+                    },
+                    "sha1": {
+                        "$": "3acqlk0z7ktdxzv6xfyd59lzyvxp1y9"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Skrywers"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1793
+                },
+                "revision": {
+                    "id": {
+                        "$": 3169
+                    },
+                    "timestamp": {
+                        "$": "2007-02-10T17:45:33Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Hendrik~afwikibooks"
+                        },
+                        "id": {
+                            "$": 25
+                        }
+                    },
+                    "comment": {
+                        "$": "New page: Hier is 'n lys van skrywers. Hulle werke sal op daardie blad wees."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 66,
+                        "@id": 3169
+                    },
+                    "sha1": {
+                        "$": "pw65qm7mkcg3w8ldyxwgzgfl4zpir73"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Hendrik~afwikibooks"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1795
+                },
+                "revision": {
+                    "id": {
+                        "$": 5030
+                    },
+                    "parentid": {
+                        "$": 3174
+                    },
+                    "timestamp": {
+                        "$": "2015-04-16T16:06:21Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Maintenance script"
+                        },
+                        "id": {
+                            "$": 1562
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Maintenance script het bladsy [[Gebruiker:Hendrik]] na [[Gebruiker:Hendrik~afwikibooks]] geskuif sonder om 'n aanstuur agter te laat: Automatically moved page while renaming the user \"[[Special:CentralAuth/Hendrik|Hendrik]]\" to \"[[Special:CentralAuth/H..."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 246,
+                        "@id": 3174
+                    },
+                    "sha1": {
+                        "$": "kqdqu7gsppyeidlodr64lw9w2uo6mi7"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sir Arthur Conan Doyle/Sherlock Holmes"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1796
+                },
+                "revision": {
+                    "id": {
+                        "$": 6439
+                    },
+                    "parentid": {
+                        "$": 6438
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T17:57:14Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Undid edits by [[Special:Contribs/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|talk]]) to last version by Hasley"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 3089,
+                        "@id": 6249
+                    },
+                    "sha1": {
+                        "$": "6zjfeh4cg9aor5hz45pr4n33yc1pnds"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Nederlands"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1800
+                },
+                "revision": {
+                    "id": {
+                        "$": 6235
+                    },
+                    "parentid": {
+                        "$": 6228
+                    },
+                    "timestamp": {
+                        "$": "2020-02-08T23:13:29Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Hasley"
+                        },
+                        "id": {
+                            "$": 2021
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Wysigings deur [[Special:Contributions/159.146.45.76|159.146.45.76]] teruggerol na laaste weergawe deur [[User:~riley|~riley]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 967,
+                        "@id": 5931
+                    },
+                    "sha1": {
+                        "$": "rr6xo0rpm2casarqznmxot0jbky0rbs"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Nederlands/Les 1"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1801
+                },
+                "revision": {
+                    "id": {
+                        "$": 6067
+                    },
+                    "parentid": {
+                        "$": 5845
+                    },
+                    "timestamp": {
+                        "$": "2020-01-08T21:34:10Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "~riley"
+                        },
+                        "id": {
+                            "$": 993
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Wysigings deur [[Special:Contributions/178.243.20.235|178.243.20.235]] teruggerol na laaste weergawe deur [[User:Jcwf|Jcwf]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1399,
+                        "@id": 5141
+                    },
+                    "sha1": {
+                        "$": "2urx0zzgsqz7gtmbtttxhc5hikl8mns"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:Delete"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1807
+                },
+                "revision": {
+                    "id": {
+                        "$": 5116
+                    },
+                    "parentid": {
+                        "$": 5112
+                    },
+                    "timestamp": {
+                        "$": "2015-08-17T18:40:41Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Randykitty"
+                        },
+                        "id": {
+                            "$": 1346
+                        }
+                    },
+                    "comment": {
+                        "$": "Wikidata"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1198,
+                        "@id": 5033
+                    },
+                    "sha1": {
+                        "$": "0oubk3n2jlia1hikuxewyiftwfyml5a"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Thogo"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1808
+                },
+                "revision": {
+                    "id": {
+                        "$": 3446
+                    },
+                    "parentid": {
+                        "$": 3204
+                    },
+                    "timestamp": {
+                        "$": "2008-10-29T01:54:21Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Pathoschild"
+                        },
+                        "id": {
+                            "$": 29
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "+ global user page ([[m:User:Pathoschild/Scripts/SynchCrosswiki|requested]])"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 954,
+                        "@id": 3441
+                    },
+                    "sha1": {
+                        "$": "otnmrah3wrqxuqimic87ero63ehipxt"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Pathoschild"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1814
+                },
+                "revision": {
+                    "id": {
+                        "$": 4417
+                    },
+                    "parentid": {
+                        "$": 4416
+                    },
+                    "timestamp": {
+                        "$": "2012-02-17T03:52:13Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Pathoschild"
+                        },
+                        "id": {
+                            "$": 29
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "global user pages"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 122,
+                        "@id": 4382
+                    },
+                    "sha1": {
+                        "$": "9s5t9popkjfyaoguhwv0tvqi20fzxs5"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Jon Harald S�by"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1815
+                },
+                "revision": {
+                    "id": {
+                        "$": 4085
+                    },
+                    "parentid": {
+                        "$": 4084
+                    },
+                    "timestamp": {
+                        "$": "2010-06-22T02:43:30Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Pathoschild"
+                        },
+                        "id": {
+                            "$": 29
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "correction"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 178,
+                        "@id": 4055
+                    },
+                    "sha1": {
+                        "$": "avs1mdavuiwjcvywfs45ctzm98wcm6z"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Tangotango"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1819
+                },
+                "revision": {
+                    "id": {
+                        "$": 3239
+                    },
+                    "timestamp": {
+                        "$": "2007-07-09T03:35:11Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Tangotango"
+                        },
+                        "id": {
+                            "$": 32
+                        }
+                    },
+                    "comment": {
+                        "$": "Create user page"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 477,
+                        "@id": 3237
+                    },
+                    "sha1": {
+                        "$": "c5jldhk3859t0soo33dfwduk8qfrjxa"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Adriaan"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1820
+                },
+                "revision": {
+                    "id": {
+                        "$": 3251
+                    },
+                    "parentid": {
+                        "$": 3250
+                    },
+                    "timestamp": {
+                        "$": "2007-07-25T15:27:36Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 247,
+                        "@id": 3251
+                    },
+                    "sha1": {
+                        "$": "3vmyiamtvuqg4tvt8fb8omj5o34lcit"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Adriaan"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1821
+                },
+                "revision": {
+                    "id": {
+                        "$": 3252
+                    },
+                    "timestamp": {
+                        "$": "2007-07-25T15:28:45Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Verander rooi skakel na 'n bloue"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 17,
+                        "@id": 3252
+                    },
+                    "sha1": {
+                        "$": "ffp9q93n6ro0gq3oxam5x8pysb3tzl5"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Az1568"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1823
+                },
+                "revision": {
+                    "id": {
+                        "$": 3254
+                    },
+                    "timestamp": {
+                        "$": "2007-07-31T03:52:35Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Az1568"
+                        },
+                        "id": {
+                            "$": 34
+                        }
+                    },
+                    "comment": {
+                        "$": "."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 869,
+                        "@id": 3254
+                    },
+                    "sha1": {
+                        "$": "ceeto05lf1tlj2bfypgyc30dgqvvxim"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Az1568"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1824
+                },
+                "revision": {
+                    "id": {
+                        "$": 4177
+                    },
+                    "parentid": {
+                        "$": 3255
+                    },
+                    "timestamp": {
+                        "$": "2010-11-26T20:46:22Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Quentinv57"
+                        },
+                        "id": {
+                            "$": 577
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Softredirect"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 36,
+                        "@id": 4143
+                    },
+                    "sha1": {
+                        "$": "ddef2ogl7h71cq5p555s175phfybcr0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Majorly"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1826
+                },
+                "revision": {
+                    "id": {
+                        "$": 3259
+                    },
+                    "timestamp": {
+                        "$": "2007-08-06T17:18:24Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Majorly"
+                        },
+                        "id": {
+                            "$": 35
+                        }
+                    },
+                    "comment": {
+                        "$": "[[m:User:Majorly|Majorly]] @ Meta"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 33,
+                        "@id": 3259
+                    },
+                    "sha1": {
+                        "$": "5ehikxyrt2dlmj176ttugh0nc1m3u7h"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks:Protected pages"
+                },
+                "ns": {
+                    "$": 4
+                },
+                "id": {
+                    "$": 1828
+                },
+                "revision": {
+                    "id": {
+                        "$": 3269
+                    },
+                    "parentid": {
+                        "$": 3268
+                    },
+                    "timestamp": {
+                        "$": "2007-08-16T10:36:17Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Jon Harald S�by"
+                        },
+                        "id": {
+                            "$": 30
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Het [[Wikibooks:Protected pages]] beskerm: protecting spam from recreation [edit=sysop:move=sysop] [cascading]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 148,
+                        "@id": 3270
+                    },
+                    "sha1": {
+                        "$": "7n3bc231m5uzhzwmo1ta0dyn13uwdy4"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Bastique"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1831
+                },
+                "revision": {
+                    "id": {
+                        "$": 3283
+                    },
+                    "timestamp": {
+                        "$": "2007-08-24T19:07:49Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Bastique"
+                        },
+                        "id": {
+                            "$": 38
+                        }
+                    },
+                    "comment": {
+                        "$": "new user page"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 684,
+                        "@id": 3284
+                    },
+                    "sha1": {
+                        "$": "q82rr917mhqbj58k5zwnqzav574pvmc"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Bastique"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1832
+                },
+                "redirect": {
+                    "@title": "Gebruiker:Bastique"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3284
+                    },
+                    "timestamp": {
+                        "$": "2007-08-24T19:10:45Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Bastique"
+                        },
+                        "id": {
+                            "$": 38
+                        }
+                    },
+                    "comment": {
+                        "$": "redirect"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 26,
+                        "@id": 3285
+                    },
+                    "sha1": {
+                        "$": "re9pcurfvpz64ol26u4tk2z2d5lysgv"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Effeietsanders"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1833
+                },
+                "revision": {
+                    "id": {
+                        "$": 3286
+                    },
+                    "timestamp": {
+                        "$": "2007-08-26T12:57:34Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Effeietsanders"
+                        },
+                        "id": {
+                            "$": 39
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: <br clear=\"all\"><center><div style=\"border: solid #aaa 1px; clear: both; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 350px; padding: 4px; spacing: 0px; text-align:lef..."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 552,
+                        "@id": 3287
+                    },
+                    "sha1": {
+                        "$": "9ojyyz7t5hwwkbf4wbkefixzbmbdqiz"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Jorunn"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1835
+                },
+                "revision": {
+                    "id": {
+                        "$": 3289
+                    },
+                    "timestamp": {
+                        "$": "2007-08-28T09:17:46Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Jorunn"
+                        },
+                        "id": {
+                            "$": 36
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user:Jorunn]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 17,
+                        "@id": 3290
+                    },
+                    "sha1": {
+                        "$": "cpnwj5sgjvp3ow36hcftk9e0tasm28i"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Artikelstatussjablone"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1836
+                },
+                "revision": {
+                    "id": {
+                        "$": 3292
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:23:20Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.16.213"
+                        }
+                    },
+                    "comment": {
+                        "$": "{{Katbeskryf}}"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 14,
+                        "@id": 3293
+                    },
+                    "sha1": {
+                        "$": "30gqazz8320wqa7i57mhhxvk0gzub5x"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:Sjablooninfo"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1837
+                },
+                "revision": {
+                    "id": {
+                        "$": 3526
+                    },
+                    "parentid": {
+                        "$": 3293
+                    },
+                    "timestamp": {
+                        "$": "2008-11-20T08:04:20Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan90"
+                        },
+                        "id": {
+                            "$": 190
+                        }
+                    },
+                    "comment": {
+                        "$": "vervang met blou weergawe"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 980,
+                        "@id": 3521
+                    },
+                    "sha1": {
+                        "$": "sog90ulutxws9f3sf5fnuceq9id89i0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:Katbeskryf"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1838
+                },
+                "revision": {
+                    "id": {
+                        "$": 3294
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:24:58Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.16.213"
+                        }
+                    },
+                    "comment": {
+                        "$": "+sjabloon"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1284,
+                        "@id": 3295
+                    },
+                    "sha1": {
+                        "$": "d3fby1k23z7jjiso8ec6ahz8kvgzimf"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:SL"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1839
+                },
+                "revision": {
+                    "id": {
+                        "$": 3295
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:25:28Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.16.213"
+                        }
+                    },
+                    "comment": {
+                        "$": "edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 207,
+                        "@id": 3296
+                    },
+                    "sha1": {
+                        "$": "dlxuseuvn5ryaqfqwuvtg9jdyfpiibk"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Sjablone"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1840
+                },
+                "revision": {
+                    "id": {
+                        "$": 5113
+                    },
+                    "parentid": {
+                        "$": 4634
+                    },
+                    "timestamp": {
+                        "$": "2015-08-09T19:10:25Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "YiFeiBot"
+                        },
+                        "id": {
+                            "$": 1614
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Verplasing van 34 interwikiskakels wat op [[d:|Wikidata]] beskikbaar is op [[d:q3740]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 99,
+                        "@id": 5030
+                    },
+                    "sha1": {
+                        "$": "ob0brieyd61eew53jhpb21p6i86aa87"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Kategorie� met outomatiese beskrywings"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1841
+                },
+                "revision": {
+                    "id": {
+                        "$": 3297
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:27:34Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.16.213"
+                        }
+                    },
+                    "comment": {
+                        "$": "{{Katbeskryf}}"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 14,
+                        "@id": 3298
+                    },
+                    "sha1": {
+                        "$": "30gqazz8320wqa7i57mhhxvk0gzub5x"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Kandidate vir spoedige verwydering"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1842
+                },
+                "revision": {
+                    "id": {
+                        "$": 3659
+                    },
+                    "parentid": {
+                        "$": 3299
+                    },
+                    "timestamp": {
+                        "$": "2008-11-23T06:41:23Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan90"
+                        },
+                        "id": {
+                            "$": 190
+                        }
+                    },
+                    "comment": {
+                        "$": "beskrywing"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 98,
+                        "@id": 3650
+                    },
+                    "sha1": {
+                        "$": "mi8cmc25g031h3475usul9a8r6p0i6q"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Tale"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1843
+                },
+                "revision": {
+                    "id": {
+                        "$": 3301
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:35:52Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.16.213"
+                        }
+                    },
+                    "comment": {
+                        "$": "{{Katbeskryf}}"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 14,
+                        "@id": 3302
+                    },
+                    "sha1": {
+                        "$": "30gqazz8320wqa7i57mhhxvk0gzub5x"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wie mag deelneem"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1844
+                },
+                "redirect": {
+                    "@title": "Wikibooks:Wie mag deelneem"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3303
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:37:31Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Wie mag deelneem]] geskuif na [[Wikibooks:Wie mag deelneem]]: Korrekte naamruimte"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 40,
+                        "@id": 3303
+                    },
+                    "sha1": {
+                        "$": "8a0gn6iwolerrtok9ogbbwpw5gryn1n"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Ongeklassifiseer"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1845
+                },
+                "redirect": {
+                    "@title": "Ongeklassifiseerde grappe"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3307
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:39:40Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Ongeklassifiseer]] geskuif na [[Ongeklassifiseerde grappe]]: Beter naampie"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 39,
+                        "@id": 3306
+                    },
+                    "sha1": {
+                        "$": "d6fmiv9a9asuix6s2ym4ojkdhyhu1n2"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Hoe kan ek bydra"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1846
+                },
+                "redirect": {
+                    "@title": "Wikibooks:Hoe kan ek bydra"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3309
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:40:06Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Hoe kan ek bydra]] geskuif na [[Wikibooks:Hoe kan ek bydra]]: edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 40,
+                        "@id": 3307
+                    },
+                    "sha1": {
+                        "$": "tr01alv8wq8kfstvh68imbher4uy1zt"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Grappe"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1847
+                },
+                "revision": {
+                    "id": {
+                        "$": 3313
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:42:11Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "{{Katbeskryf}}"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 14,
+                        "@id": 3311
+                    },
+                    "sha1": {
+                        "$": "30gqazz8320wqa7i57mhhxvk0gzub5x"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Internet"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1848
+                },
+                "revision": {
+                    "id": {
+                        "$": 3608
+                    },
+                    "parentid": {
+                        "$": 3315
+                    },
+                    "timestamp": {
+                        "$": "2008-11-20T12:52:06Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan90"
+                        },
+                        "id": {
+                            "$": 190
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Kategorie:Rekenaartoepassingstegnologie]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 59,
+                        "@id": 3601
+                    },
+                    "sha1": {
+                        "$": "t4ypiqv3saq9fwoyykv60kv210nzw5m"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Astronomie"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1849
+                },
+                "redirect": {
+                    "@title": "Sterrekunde"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3318
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:44:02Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Astronomie]] geskuif na [[Sterrekunde]]: Verafrikaans"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 25,
+                        "@id": 3315
+                    },
+                    "sha1": {
+                        "$": "2qfbnx5fzp9ljlcmqdxacgs0gatf9x1"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Def wikibook"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1850
+                },
+                "redirect": {
+                    "@title": "Wikibooks"
+                },
+                "revision": {
+                    "id": {
+                        "$": 3322
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T14:45:38Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "[[Def wikibook]] geskuif na [[Wikibooks]]: edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 23,
+                        "@id": 3318
+                    },
+                    "sha1": {
+                        "$": "e0otebumr2yddnhez3vbn2lri9wfz39"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Kategorie:Natuurkunde"
+                },
+                "ns": {
+                    "$": 14
+                },
+                "id": {
+                    "$": 1851
+                },
+                "revision": {
+                    "id": {
+                        "$": 3325
+                    },
+                    "timestamp": {
+                        "$": "2007-09-03T16:12:36Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adriaan"
+                        },
+                        "id": {
+                            "$": 33
+                        }
+                    },
+                    "comment": {
+                        "$": "{{Katbeskryf}}"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 14,
+                        "@id": 3321
+                    },
+                    "sha1": {
+                        "$": "30gqazz8320wqa7i57mhhxvk0gzub5x"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Hoe om te gebruik"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1852
+                },
+                "revision": {
+                    "id": {
+                        "$": 6493
+                    },
+                    "parentid": {
+                        "$": 6390
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:30:21Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "comment": {
+                        "$": "Rol weergawe 6390 deur [[Special:Contributions/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|bespreek]]) terug."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 176,
+                        "@id": 6309
+                    },
+                    "sha1": {
+                        "$": "gmxaj0qvr4an11shiusvliz9ffmz95c"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Hoe om 'n atlas te gebruik"
+                },
+                "ns": {
+                    "$": 0
+                },
+                "id": {
+                    "$": 1853
+                },
+                "revision": {
+                    "id": {
+                        "$": 6488
+                    },
+                    "parentid": {
+                        "$": 6352
+                    },
+                    "timestamp": {
+                        "$": "2020-02-12T18:28:38Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Meir�"
+                        },
+                        "id": {
+                            "$": 1408
+                        }
+                    },
+                    "comment": {
+                        "$": "Rol weergawe 6352 deur [[Special:Contributions/159.146.18.89|159.146.18.89]] ([[User talk:159.146.18.89|bespreek]]) terug."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1089,
+                        "@id": 6304
+                    },
+                    "sha1": {
+                        "$": "rpm57ut8v5pmu94ksb58xiwj17qut7z"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:Wikipedia"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1854
+                },
+                "revision": {
+                    "id": {
+                        "$": 4699
+                    },
+                    "parentid": {
+                        "$": 4283
+                    },
+                    "timestamp": {
+                        "$": "2013-09-02T06:42:29Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Jafeluv"
+                        },
+                        "id": {
+                            "$": 519
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "fix"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1688,
+                        "@id": 4663
+                    },
+                    "sha1": {
+                        "$": "dikeodifskwa7ktk3xmug31g9tjqhiz"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Wikibooks:Nospam"
+                },
+                "ns": {
+                    "$": 4
+                },
+                "id": {
+                    "$": 1858
+                },
+                "revision": {
+                    "id": {
+                        "$": 3356
+                    },
+                    "parentid": {
+                        "$": 3345
+                    },
+                    "timestamp": {
+                        "$": "2007-10-13T12:51:54Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Magister Mathematicae"
+                        },
+                        "id": {
+                            "$": 41
+                        }
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 2557,
+                        "@id": 3351
+                    },
+                    "sha1": {
+                        "$": "cq2kdvfsv0otdihw07s8q5k7t32b12u"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Magister Mathematicae"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1861
+                },
+                "revision": {
+                    "id": {
+                        "$": 4103
+                    },
+                    "parentid": {
+                        "$": 3344
+                    },
+                    "timestamp": {
+                        "$": "2010-07-16T15:25:27Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Dferg"
+                        },
+                        "id": {
+                            "$": 303
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "[[Gebruiker:Drini]] geskuif na [[Gebruiker:Magister Mathematicae]]: Bladsy is outomaties geskuif met die wysiging van die gebruiker \"[[User:Drini|Drini]]\" na \"[[User:Magister Mathematicae|Magister Mathematicae]]\""
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 64,
+                        "@id": 3339
+                    },
+                    "sha1": {
+                        "$": "sfcihnv0kt2e23yhdrjf8g4wimuaqnf"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Jorunn"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1862
+                },
+                "revision": {
+                    "id": {
+                        "$": 3346
+                    },
+                    "timestamp": {
+                        "$": "2007-09-29T20:36:34Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Jorunn"
+                        },
+                        "id": {
+                            "$": 36
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "Nuwe blad: [[m:User talk:Jorunn]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 22,
+                        "@id": 3341
+                    },
+                    "sha1": {
+                        "$": "evkf857g608zg618g9s2myerswe978o"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:MF-Warburg"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1863
+                },
+                "revision": {
+                    "id": {
+                        "$": 3347
+                    },
+                    "timestamp": {
+                        "$": "2007-10-04T15:28:24Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "MF-Warburg"
+                        },
+                        "id": {
+                            "$": 42
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[:m:User:MF-Warburg]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 22,
+                        "@id": 3342
+                    },
+                    "sha1": {
+                        "$": "81k8lvycfkw3shf3si0ucw4psbk26j0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Hulp:Wikibooks"
+                },
+                "ns": {
+                    "$": 12
+                },
+                "id": {
+                    "$": 1864
+                },
+                "revision": {
+                    "id": {
+                        "$": 3352
+                    },
+                    "parentid": {
+                        "$": 3351
+                    },
+                    "timestamp": {
+                        "$": "2007-10-07T18:04:22Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.24.49"
+                        }
+                    },
+                    "comment": {
+                        "$": "edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 669,
+                        "@id": 3347
+                    },
+                    "sha1": {
+                        "$": "fp3uu5yvimakko0adga18ntf5yknmp2"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Sjabloon:Paraf"
+                },
+                "ns": {
+                    "$": 10
+                },
+                "id": {
+                    "$": 1865
+                },
+                "revision": {
+                    "id": {
+                        "$": 3350
+                    },
+                    "timestamp": {
+                        "$": "2007-10-07T18:03:43Z"
+                    },
+                    "contributor": {
+                        "ip": {
+                            "$": "41.243.24.49"
+                        }
+                    },
+                    "comment": {
+                        "$": "edit"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 202,
+                        "@id": 3345
+                    },
+                    "sha1": {
+                        "$": "pwemfiukmgw6q2rgu9ga00yh5w9gh3u"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:DerHexer"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1867
+                },
+                "revision": {
+                    "id": {
+                        "$": 3368
+                    },
+                    "parentid": {
+                        "$": 3357
+                    },
+                    "timestamp": {
+                        "$": "2007-12-30T00:22:04Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "DerHexer"
+                        },
+                        "id": {
+                            "$": 45
+                        }
+                    },
+                    "minor": {},
+                    "comment": {
+                        "$": "m"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 1724,
+                        "@id": 3363
+                    },
+                    "sha1": {
+                        "$": "0jci5g9ld6egpr57yzzqf6gtqzswaxi"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Cbrown1023"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1869
+                },
+                "revision": {
+                    "id": {
+                        "$": 3364
+                    },
+                    "timestamp": {
+                        "$": "2007-12-02T05:19:16Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Cbrown1023"
+                        },
+                        "id": {
+                            "$": 48
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user:Cbrown1023]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 21,
+                        "@id": 3359
+                    },
+                    "sha1": {
+                        "$": "m9wmdsm9iojgepovb0oi0p593qsvhu8"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Dungodung"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1870
+                },
+                "revision": {
+                    "id": {
+                        "$": 3365
+                    },
+                    "timestamp": {
+                        "$": "2007-12-18T10:24:49Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Dungodung"
+                        },
+                        "id": {
+                            "$": 51
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:User:Dungodung]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 20,
+                        "@id": 3360
+                    },
+                    "sha1": {
+                        "$": "fw9jxkkcfput12sq7mvvzqv9smmyigq"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Werdan7"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1871
+                },
+                "revision": {
+                    "id": {
+                        "$": 3369
+                    },
+                    "timestamp": {
+                        "$": "2008-01-15T03:13:42Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Werdan7"
+                        },
+                        "id": {
+                            "$": 54
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user:Werdan7]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 18,
+                        "@id": 3364
+                    },
+                    "sha1": {
+                        "$": "8nrit81858cbix1lksum0i29k33zhgl"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Werdan7"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1872
+                },
+                "revision": {
+                    "id": {
+                        "$": 3370
+                    },
+                    "timestamp": {
+                        "$": "2008-01-15T03:13:47Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Werdan7"
+                        },
+                        "id": {
+                            "$": 54
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user talk:Werdan7]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 23,
+                        "@id": 3365
+                    },
+                    "sha1": {
+                        "$": "1j7a3dtkviow832meb2kzq21emoa7g0"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Mike.lifeguard"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1873
+                },
+                "revision": {
+                    "id": {
+                        "$": 3371
+                    },
+                    "timestamp": {
+                        "$": "2008-01-21T18:23:16Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Mike.lifeguard"
+                        },
+                        "id": {
+                            "$": 55
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user:Mike.lifeguard]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 25,
+                        "@id": 3366
+                    },
+                    "sha1": {
+                        "$": "236tx3nphq7zsog8l3lodr172c0su86"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruikerbespreking:Mike.lifeguard"
+                },
+                "ns": {
+                    "$": 3
+                },
+                "id": {
+                    "$": 1874
+                },
+                "revision": {
+                    "id": {
+                        "$": 3372
+                    },
+                    "timestamp": {
+                        "$": "2008-01-21T18:23:21Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Mike.lifeguard"
+                        },
+                        "id": {
+                            "$": 55
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[m:user talk:Mike.lifeguard]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 30,
+                        "@id": 3367
+                    },
+                    "sha1": {
+                        "$": "0npg285m5u1p4r64p3iegwv4hsktpdj"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Adambro"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1875
+                },
+                "revision": {
+                    "id": {
+                        "$": 3373
+                    },
+                    "timestamp": {
+                        "$": "2008-01-22T23:51:20Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Adambro"
+                        },
+                        "id": {
+                            "$": 56
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: [[meta:User:Adambro]]"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 21,
+                        "@id": 3368
+                    },
+                    "sha1": {
+                        "$": "ez9ycc6s9gfke3epzjfo61o6h8hw6vd"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:SPQRobin"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1877
+                },
+                "revision": {
+                    "id": {
+                        "$": 3376
+                    },
+                    "timestamp": {
+                        "$": "2008-02-07T20:42:00Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "SPQRobin"
+                        },
+                        "id": {
+                            "$": 57
+                        }
+                    },
+                    "comment": {
+                        "$": "Nuwe blad: Ek spreek Nederlands als my moedertaal, ek ken al wat Afrikaans maar jy sal nog veel Nederlandse woorde in my Afrikaans vind :-)  Sien [[meta:User:SPQRobin]]."
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 158,
+                        "@id": 3371
+                    },
+                    "sha1": {
+                        "$": "d3x7qv63ab9qb02teqryevy5vuhtuud"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Jj137"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1878
+                },
+                "revision": {
+                    "id": {
+                        "$": 3383
+                    },
+                    "timestamp": {
+                        "$": "2008-02-16T17:08:40Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Jj137"
+                        },
+                        "id": {
+                            "$": 61
+                        }
+                    },
+                    "comment": {
+                        "$": "create"
+                    },
+                    "model": {
+                        "$": "wikitext"
+                    },
+                    "format": {
+                        "$": "text/x-wiki"
+                    },
+                    "text": {
+                        "@bytes": 18,
+                        "@id": 3378
+                    },
+                    "sha1": {
+                        "$": "ltibvjyhvcbg7x9bpgf73oab2sydi4f"
+                    }
+                }
+            },
+            {
+                "title": {
+                    "$": "Gebruiker:Carkuni"
+                },
+                "ns": {
+                    "$": 2
+                },
+                "id": {
+                    "$": 1879
+                },
+                "revision": {
+                    "id": {
+                        "$": 3384
+                    },
+                    "timestamp": {
+                        "$": "2008-02-28T14:08:53Z"
+                    },
+                    "contributor": {
+                        "username": {
+                            "$": "Carkuni"
+                        },
+                        "id": {
+                            "$": 63
+                        }
+                    },
+                    "comment": {
+                        "$": 
