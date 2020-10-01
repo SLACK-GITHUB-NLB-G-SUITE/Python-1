@@ -1,14 +1,74 @@
 [
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/01%20-%20Enter%20Sandman.mp3"], "file_name": "01 - Enter Sandman"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/02%20-%20Sad%20But%20True.mp3"], "file_name": "02 - Sad But True"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/03%20-%20Holier%20Than%20Thou.mp3"], "file_name": "03 - Holier Than Thou"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/04%20-%20The%20Unforgiven.mp3"], "file_name": "04 - The Unforgiven"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/05%20-%20Wherever%20I%20May%20Roam.mp3"], "file_name": "05 - Wherever I May Roam"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/06%20-%20Don't%20Tread%20On%20Me.mp3"], "file_name": "06 - Don't Tread On Me"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/07%20-%20Through%20The%20Never.mp3"], "file_name": "07 - Through The Never"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/08%20-%20Nothing%20Else%20Matters.mp3"], "file_name": "08 - Nothing Else Matters"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/09%20-%20Of%20Wolf%20And%20Man.mp3"], "file_name": "09 - Of Wolf And Man"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/10%20-%20The%20God%20That%20Failed.mp3"], "file_name": "10 - The God That Failed"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/11%20-%20My%20Friend%20Of%20Mysery.mp3"], "file_name": "11 - My Friend Of Mysery"},
-{"file_urls": ["http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/12%20-%20The%20Struggle%20Within.mp3"], "file_name": "12 - The Struggle Within"}
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/01%20-%20Enter%20Sandman.mp3"
+        ],
+        "file_name": "01 - Enter Sandman"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/02%20-%20Sad%20But%20True.mp3"
+        ],
+        "file_name": "02 - Sad But True"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/03%20-%20Holier%20Than%20Thou.mp3"
+        ],
+        "file_name": "03 - Holier Than Thou"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/04%20-%20The%20Unforgiven.mp3"
+        ],
+        "file_name": "04 - The Unforgiven"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/05%20-%20Wherever%20I%20May%20Roam.mp3"
+        ],
+        "file_name": "05 - Wherever I May Roam"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/06%20-%20Don't%20Tread%20On%20Me.mp3"
+        ],
+        "file_name": "06 - Don't Tread On Me"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/07%20-%20Through%20The%20Never.mp3"
+        ],
+        "file_name": "07 - Through The Never"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/08%20-%20Nothing%20Else%20Matters.mp3"
+        ],
+        "file_name": "08 - Nothing Else Matters"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/09%20-%20Of%20Wolf%20And%20Man.mp3"
+        ],
+        "file_name": "09 - Of Wolf And Man"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/10%20-%20The%20God%20That%20Failed.mp3"
+        ],
+        "file_name": "10 - The God That Failed"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/11%20-%20My%20Friend%20Of%20Mysery.mp3"
+        ],
+        "file_name": "11 - My Friend Of Mysery"
+    },
+    {
+        "file_urls": [
+            "http://hcmaslov.d-real.sci-nnov.ru/public/mp3/Metallica/Albums/1991%20-%20Metallica/12%20-%20The%20Struggle%20Within.mp3"
+        ],
+        "file_name": "12 - The Struggle Within"
+    }
 ]
